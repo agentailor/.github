@@ -1,0 +1,31 @@
+<svg width="520" height="140" viewBox="0 0 520 140" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Stitch mark: 4 bars, viewBox 48x44 scaled x2.8. -->
+  <g transform="translate(12, 8) scale(2.8)">
+    <!-- center thread -->
+    <line x1="0" y1="22" x2="48" y2="22" stroke="#0b0b0b" stroke-width="0.8"/>
+    <!-- bars -->
+    <line x1="6"  y1="5" x2="6"  y2="39" stroke="#0b0b0b" stroke-width="2.5" stroke-linecap="round"/>
+    <line x1="18" y1="5" x2="18" y2="39" stroke="#0b0b0b" stroke-width="2.5" stroke-linecap="round"/>
+    <line x1="30" y1="5" x2="30" y2="39" stroke="#0b0b0b" stroke-width="2.5" stroke-linecap="round"/>
+    <line x1="42" y1="5" x2="42" y2="39" stroke="#0b0b0b" stroke-width="2.5" stroke-linecap="round"/>
+    <!-- top thread -->
+    <path d="M0 13 C3 13 3 5 6 5 C9 5 9 13 18 13 C27 13 27 5 30 5 C33 5 33 13 42 13 C45 13 45 5 48 5"
+          stroke="#0b0b0b" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+    <!-- bottom thread -->
+    <path d="M0 31 C3 31 3 39 6 39 C9 39 9 31 18 31 C27 31 27 39 30 39 C33 39 33 31 42 31 C45 31 45 39 48 39"
+          stroke="#0b0b0b" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+  </g>
+
+  <!-- Wordmark -->
+  <text
+    x="174"
+    y="82"
+    font-family="'Geist', 'Syne', 'Arial Black', sans-serif"
+    font-weight="800"
+    font-size="52"
+    letter-spacing="-1"
+    fill="#0b0b0b"
+  >Agentailor</text>
+
+</svg>

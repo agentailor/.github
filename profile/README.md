@@ -1,11 +1,10 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="images/logo-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="images/logo.png">
-  <img alt="Agentailor Logo" src="images/logo.png" height="60" style="vertical-align:middle">
+  <source media="(prefers-color-scheme: dark)" srcset="images/logo-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="images/logo.svg">
+  <img alt="Agentailor" src="images/logo.svg" width="50%">
 </picture>
-&nbsp;&nbsp;<strong style="font-size:2em;vertical-align:middle">Agentailor</strong>
 
 ### Crafting Intelligent Agents
 
@@ -15,10 +14,10 @@ Practitioner guides, open-source tools, and production templates for developers 
 
 ## Open Source
 
-**[Full Stack Agent](https://github.com/agentailor/fullstack-langgraph-nextjs-agent)**
+* **[Full Stack Agent](https://github.com/agentailor/fullstack-langgraph-nextjs-agent)**
 Production-ready Next.js + LangGraph.js template with MCP integration, human-in-the-loop approval, persistent memory, real-time streaming, and observability via Langfuse.
 
-**[create-mcp-server](https://github.com/agentailor/create-mcp-server)**
+* **[create-mcp-server](https://github.com/agentailor/create-mcp-server)**
 CLI to scaffold production-ready MCP servers in TypeScript in seconds. Supports the official MCP SDK and FastMCP TS — go from zero to a working server without the boilerplate.
 
 
