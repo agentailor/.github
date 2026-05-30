@@ -1,12 +1,12 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="images/logo-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="images/logo.svg">
-  <img alt="Agentailor" src="images/logo.svg" width="50%">
-</picture>
-
-### Crafting Intelligent Agents
+<a href="https://blog.agentailor.com">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="images/logo-subtext-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="images/logo-subtext.svg">
+    <img alt="Agentailor" src="images/logo-subtext.svg" width="50%">
+  </picture>
+</a>
 
 </div>
 
