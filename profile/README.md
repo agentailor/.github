@@ -1,0 +1,47 @@
+<div align="center">
+
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td valign="middle">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="images/logo-dark.png">
+        <source media="(prefers-color-scheme: light)" srcset="images/logo.png">
+        <img alt="Agentailor Logo" src="images/logo.png" height="60">
+      </picture>
+    </td>
+    <td valign="middle">&nbsp;&nbsp;<h1>Agentailor</h1></td>
+  </tr>
+</table>
+
+### Crafting Intelligent Agents
+
+</div>
+
+Practitioner guides, open-source tools, and production templates for developers building real-world AI agents.
+
+---
+
+## Open Source
+
+**[Full Stack Agent](https://github.com/agentailor/fullstack-langgraph-nextjs-agent)**
+Production-ready Next.js template for building AI agents with LangGraph.js. Includes MCP integration for dynamic tool loading, human-in-the-loop tool approval, persistent conversation memory with PostgreSQL, real-time streaming responses, and tracing and observability via Langfuse. Built with TypeScript, React, Prisma, and Tailwind CSS.
+
+**[create-mcp-server](https://github.com/agentailor/create-mcp-server)**
+CLI to scaffold production-ready MCP servers in TypeScript in seconds. Supports the official MCP SDK and FastMCP TS — go from zero to a working server without the boilerplate.
+
+---
+
+## More Resources
+
+- [blog.agentailor.com](https://blog.agentailor.com) — 30+ practitioner guides on agent memory, orchestration, MCP, LangGraph, and fullstack deployment. All written with working code examples for production use cases.
+- [Agent Briefings](https://www.linkedin.com/newsletters/agent-briefings-7391777936955310080/) — Bi-weekly LinkedIn newsletter covering topics that go deeper or broader than the blog: ecosystem trends, new tooling releases, case studies, and production lessons.
+
+---
+
+## Got a Burning Question About Your Agent Architecture?
+
+Don't settle for a generic answer. The [Agentailor agent](https://ai.agentailor.com) is built to give you opinionated, grounded answers about building production AI agents — backed by real experience, not web search. Bring it a real problem: a pattern you're unsure about, a tradeoff you want a second opinion on, or an architecture decision you're stuck on.
+
+---
+
+Built by [Ali Ibrahim](https://x.com/ialijr) &nbsp;·&nbsp; [agentailor.com](https://agentailor.com)
