@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://blog.agentailor.com">
+<a href="https://agentailor.com">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="images/logo-subtext-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="images/logo-subtext.svg">
