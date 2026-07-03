@@ -20,6 +20,9 @@ Production-ready Next.js + LangGraph.js template with MCP integration, human-in-
 * **[create-mcp-server](https://github.com/agentailor/create-mcp-server)**
 CLI to scaffold production-ready MCP servers in TypeScript in seconds. Supports the official MCP SDK and FastMCP TS — go from zero to a working server without the boilerplate.
 
+* **[@agentailor/mcp](https://github.com/agentailor/mcp)**
+Ground your AI assistant in real, production-tested knowledge for building AI agents — it can search and read Agentailor's 30+ practitioner guides and open-source repos, so you get answers from working examples instead of guesses. Run with `npx @agentailor/mcp`; works with Claude Desktop and any MCP client.
+
 
 ## More Resources
 
