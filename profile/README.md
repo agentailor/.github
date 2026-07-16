@@ -23,11 +23,14 @@ CLI to scaffold production-ready MCP servers in TypeScript in seconds. Supports 
 * **[@agentailor/mcp](https://github.com/agentailor/mcp)**
 Ground your AI assistant in real, production-tested knowledge for building AI agents — it can search and read Agentailor's 30+ practitioner guides and open-source repos, so you get answers from working examples instead of guesses. Run with `npx @agentailor/mcp`; works with Claude Desktop and any MCP client.
 
+* **[skills](https://github.com/agentailor/skills)**
+Hand-crafted Agent Skills for building AI agents — each distilled from a technique proven in real Agentailor projects (agent prompt engineering, tool design, and more). Drop them into a skill-aware coding agent like Claude Code to design agents to a production-tested standard. Follows the [AgentSkills spec](https://agentskills.io/specification).
+
 
 ## More Resources
 
 - [blog.agentailor.com](https://blog.agentailor.com) — 30+ practitioner guides on agent memory, orchestration, MCP, LangGraph, and fullstack deployment. All written with working code examples for production use cases.
-- [Agent Briefings](https://www.linkedin.com/newsletters/agent-briefings-7391777936955310080/) — Bi-weekly LinkedIn newsletter covering topics that go deeper or broader than the blog: ecosystem trends, new tooling releases, case studies, and production lessons.
+- [Agent Briefings](https://agentailor.substack.com/) — Bi-weekly newsletter covering topics that go deeper or broader than the blog: ecosystem trends, new tooling releases, case studies, and production lessons.
 
 
 ## Got a Burning Question About Your Agent Architecture?
